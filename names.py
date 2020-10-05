@@ -10,4 +10,6 @@ names = [
     "Nishtha",
     "Igho",
     "Gabriel"
+    "Kristina",
+    "Suliman"
 ]

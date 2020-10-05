@@ -5,5 +5,6 @@ honorifics = [
     "the magnificent",
     "the legend",
     "the teleport",
-    "the determined"
+    "the determined",
+	"the queen"
 ]

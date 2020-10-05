@@ -9,5 +9,6 @@ honorifics = [
     "the queen",
     "the wonderingful",
     "the billionaire",
-    "the incredible"
+    "the incredible",
+    "the honorable"
 ]

@@ -1,0 +1,3 @@
+honorifics = [
+    "the wise"
+]

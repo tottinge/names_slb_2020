@@ -1,3 +1,4 @@
-names = [ 
-    "Tim"
+names = [
+    "Tim",
+    "Anne-Maëlle"
 ]

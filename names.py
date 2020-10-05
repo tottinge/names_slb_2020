@@ -3,5 +3,6 @@ names = [
     "Anne-Maëlle",
     "Keidi",
     "Weijia",
-    "Laura"
+    "Laura",
+    "Igho",
 ]

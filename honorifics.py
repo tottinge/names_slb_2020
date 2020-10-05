@@ -1,3 +1,4 @@
 honorifics = [
-    "the wise"
+    "the wise",
+    "the honest"
 ]

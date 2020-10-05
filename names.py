@@ -2,5 +2,6 @@ names = [
     "Tim",
     "Anne-Maëlle",
     "Keidi",
-    "Weijia"
+    "Weijia",
+    "Laura"
 ]

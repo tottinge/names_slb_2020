@@ -4,5 +4,6 @@ names = [
     "Ana",
     "Aneeshaa"
     "Keidi",
-    "Weijia"
+    "Weijia",
+    "Laura"
 ]

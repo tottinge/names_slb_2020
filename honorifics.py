@@ -3,5 +3,6 @@ honorifics = [
     "the honest",
     "the bravest",
     "the magnificent",
-    "the legend"
+    "the legend",
+    "the teleport",
 ]

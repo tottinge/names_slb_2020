@@ -7,5 +7,6 @@ honorifics = [
     "the teleport",
     "the determined",
     "the queen",
-    "wonderingful"
+    "wonderingful",
+    "the billionaire"
 ]

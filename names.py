@@ -9,4 +9,5 @@ names = [
     "Laura",
     "Nishtha",
     "Igho",
+    "Kristina"
 ]

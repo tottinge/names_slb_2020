@@ -6,5 +6,6 @@ names = [
     "Aneeshaa",
     "Keidi",
     "Weijia",
-    "Laura"
+    "Laura",
+    "Igho",
 ]

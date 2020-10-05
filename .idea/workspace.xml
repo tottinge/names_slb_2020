@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e4b244d-ad6f-45f6-8bc7-9d3d4c57c7ab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/names.py" beforeDir="false" afterPath="$PROJECT_DIR$/names.py" afterDir="false" />
+    <list default="true" id="1d6e7daf-b7ec-49c6-bec1-6e03a88baca1" name="Default Changelist" comment="Igho">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +36,6 @@
   <component name="ProjectId" id="1iSYM6QtMMQ3PFewyVXVE1sKhL3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -30,18 +47,75 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9e4b244d-ad6f-45f6-8bc7-9d3d4c57c7ab" name="Default Changelist" comment="" />
-      <created>1601902408307</created>
+      <changelist id="1d6e7daf-b7ec-49c6-bec1-6e03a88baca1" name="Default Changelist" comment="" />
+      <created>1601899211864</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1601902408307</updated>
+      <updated>1601899211864</updated>
     </task>
+    <task id="LOCAL-00001" summary="tt">
+      <created>1601900046421</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601900046421</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Igho">
+      <created>1601900146592</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601900146592</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Igho">
+      <created>1601901048630</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601901048630</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Igho">
+      <created>1601901089429</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601901089429</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Igho">
+      <created>1601901146498</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601901146498</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tt" />
+    <MESSAGE value="Igho" />
+    <option name="LAST_COMMIT_MESSAGE" value="Igho" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2381" y="167" key="SettingsEditor" timestamp="1601902419414">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="2381" y="167" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@1920.0.1920.1050" timestamp="1601902419414" />
+    <state x="-1143" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601904396268">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1143" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.0.1920.1050/1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1601904396268" />
   </component>
 </project>

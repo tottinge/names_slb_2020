@@ -11,5 +11,6 @@ honorifics = [
     "the billionaire",
     "the incredible",
     "the honorable",
-    "the mastermind"
+    "the mastermind",
+    "the bringer of light"
 ]

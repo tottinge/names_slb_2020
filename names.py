@@ -1,6 +1,6 @@
 names = [ 
     "Tim",
     "Anne-Maëlle",
-    "Keidi"，
+    "Keidi",
     "Weijia"
 ]

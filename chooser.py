@@ -16,10 +16,12 @@ class Chooser(object):
     def next(self):
         if not self.names or not honorifics:
             return ""
-        return f"{next(self.name_next)}, {next(self.honorific_next)}"
+        return f"      {next(self.name_next)}, {next(self.honorific_next)}!!!!"
 
 if __name__ == "__main__":
     chooser = Chooser()
     while True:
-        input("Press enter >")
+        choice = input("\nPress enter >")
+        if 'q' in choice:
+            break
         print(chooser.next())
